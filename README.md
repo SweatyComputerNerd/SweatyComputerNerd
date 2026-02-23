@@ -1,5 +1,5 @@
 - 👋 I’m @SweatyComputerNerd
-- I'm a CS undergrad at UNLV, interested in getting into C# and related .NET languages
+- I'm a DA MS student at UNLV, interested in Data Analysis and other Data Science Applications
 - This is just a repository for class files to review changes and errors made in previous versions
 
 <!---
